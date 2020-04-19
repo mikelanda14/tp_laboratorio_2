@@ -1,0 +1,5 @@
+C:\Users\MARK4\source\repos\TP Nro 1\TP Nro 1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\MARK4\source\repos\TP Nro 1\TP Nro 1\bin\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\TP Nro 1\TP Nro 1\bin\Debug\Entidades.pdb
+C:\Users\MARK4\source\repos\TP Nro 1\TP Nro 1\obj\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\TP Nro 1\TP Nro 1\obj\Debug\Entidades.pdb
