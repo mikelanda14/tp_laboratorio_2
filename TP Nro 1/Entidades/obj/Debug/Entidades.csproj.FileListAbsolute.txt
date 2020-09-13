@@ -1,0 +1,15 @@
+C:\Users\miguel.landaeta\source\repos\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\MARK4\Desktop\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\MARK4\Desktop\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MARK4\Desktop\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\MARK4\Desktop\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\MARK4\Desktop\TP1\Entidades\obj\Debug\Entidades.pdb

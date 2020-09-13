@@ -1,0 +1,24 @@
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\miguel.landaeta\source\Nueva carpeta\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\MARK4\Desktop\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
