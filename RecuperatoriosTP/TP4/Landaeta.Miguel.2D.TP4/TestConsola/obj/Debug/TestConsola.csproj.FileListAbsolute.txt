@@ -1,0 +1,9 @@
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\bin\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\TestConsola\obj\Debug\TestConsola.pdb

@@ -1,0 +1,6 @@
+1  Producto1
+1  Producto1
+1  Producto1
+1  Producto1
+2  producto2
+Importe Total : 50.95

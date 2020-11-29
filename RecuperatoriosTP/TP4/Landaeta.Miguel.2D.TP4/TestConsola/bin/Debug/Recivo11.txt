@@ -1,0 +1,5 @@
+1  Producto1
+2  producto2
+2  producto2
+3  producto3
+Importe Total : 43.96

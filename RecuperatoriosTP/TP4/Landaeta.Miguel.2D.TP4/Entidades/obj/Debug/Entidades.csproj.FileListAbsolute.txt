@@ -1,0 +1,10 @@
+C:\Users\MARK4\source\repos\Landaeta.Miguel.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\MARK4\source\repos\Landaeta.Miguel.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\Landaeta.Miguel.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MARK4\source\repos\Landaeta.Miguel.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\Landaeta.Miguel.2D.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\MARK4\source\repos\TP Nro 4\Landaeta.Miguel.2D.TP4\Entidades\obj\Debug\Entidades.pdb
