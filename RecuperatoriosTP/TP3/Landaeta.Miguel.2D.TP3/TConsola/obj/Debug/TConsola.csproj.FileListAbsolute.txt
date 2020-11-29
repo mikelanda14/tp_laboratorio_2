@@ -1,0 +1,30 @@
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\TConsola.exe.config
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\TConsola.exe
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\TConsola.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.exe
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Archivos.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Excepciones.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Archivos.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Excepciones.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.csproj.CopyComplete
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\TConsola.exe.config
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\TConsola.exe
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\TConsola.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Archivos.dll
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Excepciones.dll
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Archivos.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\bin\Debug\Excepciones.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.csprojAssemblyReference.cache
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.csproj.CopyComplete
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.exe
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\TConsola\obj\Debug\TConsola.pdb

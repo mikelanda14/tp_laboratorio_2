@@ -1,0 +1,16 @@
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\MARK4\Downloads\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

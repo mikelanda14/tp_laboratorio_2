@@ -1,0 +1,5 @@
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\miguel.landaeta\source\repos\Landaeta.Miguel.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
